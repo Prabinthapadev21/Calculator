@@ -5,7 +5,7 @@ A simple, responsive calculator built using HTML, CSS, and JavaScript — styled
 
 👉 View it on GitHub Pages
 
-    Replace your-username with your actual GitHub username after publishing.
+    https://github.com/Prabinthapadev21
 
 📁 Features
 
