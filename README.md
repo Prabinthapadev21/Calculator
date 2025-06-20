@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🧮 Calculator
 
 A simple, responsive calculator built using HTML, CSS, and JavaScript — styled to resemble the look and feel of an iPhone calculator. This project performs basic arithmetic operations like addition, subtraction, multiplication, division, percentage, and more.
